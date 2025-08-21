@@ -1,0 +1,12 @@
+# IGNORAR ARQUIVOS TRADICIONAIS
+*.doc
+*.docx
+*.pdf
+*.csv
+*.xml
+*.txt
+
+# IGNORAR PASTAS
+**/*.bak
+**/*.swp
+**/*.swo
